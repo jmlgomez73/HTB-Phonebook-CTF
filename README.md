@@ -21,7 +21,7 @@ This script takes advantage of this vulnerability by loading as a payload each c
 * [Python3](https://www.python.org/download/releases/3.0/).
 
 * Libraries: 
-    *Requests : ```pip install request```
+    * Requests : ```pip install request```
 
 ## Execution
 

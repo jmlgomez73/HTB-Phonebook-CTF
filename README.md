@@ -18,7 +18,7 @@ This script takes advantage of this vulnerability by loading as a payload each c
 ## Requirements
 * Linux
 
-* [Python3](https://www.python.org/download/releases/3.0/).
+* [Python3](https://www.python.org/downloads/).
 
 * Libraries: 
     * Requests : ```pip install request```

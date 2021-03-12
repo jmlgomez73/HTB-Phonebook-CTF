@@ -1,5 +1,5 @@
 # Phonebook Challenge HackTheBox
-Script used in the Capture The Flag (CTF) "Phonebook" challenge of the webside Hack The Box
+Script made for being used in the Capture The Flag (CTF) "Phonebook" challenge of the webside Hack The Box
 
 You can find this challenge in www.hackthebox.eu
 

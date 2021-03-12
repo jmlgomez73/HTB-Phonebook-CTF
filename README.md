@@ -3,7 +3,7 @@ Script made for being used in the Capture The Flag (CTF) "Phonebook" challenge o
 
 You can find this challenge in www.hackthebox.eu
 
-The Phonebook challenges will appeas like that:
+The Phonebook challenge will appeas like that:
 
 ![Challenge](https://i.ibb.co/VMYx6B4/descarga.png)
 

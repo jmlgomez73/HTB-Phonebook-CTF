@@ -25,7 +25,10 @@ This script takes advantage of this vulnerability by loading as a payload each c
 
 ## Execution
 
-* Valid format: ```python3 HTB_Phonebook_CTF.py ip:port/login```, example of a valid execution : ```python3 HTB_Phonebook_CTF.py http://167.99.88.216:31427/login```
+* Valid format: ```python3 HTB_Phonebook_CTF.py ip:port/login```, example of a valid execution : 
+```python
+python3 HTB_Phonebook_CTF.py http://167.99.88.216:31427/login
+```
 
 ![Demostration](http://g.recordit.co/7VKLSOsXos.gif)
 ![Result](https://i.ibb.co/QQRXKG1/descarga-1.png)
